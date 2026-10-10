@@ -1,0 +1,40 @@
+{
+  "name": "prajvis",
+  "description": "Agent plugins maintained by Prajvis",
+  "owner": {
+    "name": "Prajvis",
+    "url": "https://github.com/prajvis"
+  },
+  "plugins": [
+    {
+      "name": "photocraft",
+      "description": "Edit images headlessly with PhotoCraft, an open-source Photoshop-style editor: crop, adjustments, filters, layers, masks, compositing and PSD export. Installs the official photocraft-cli into the plugin's bin/.",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/prajvis/creative-plugins.git",
+        "path": "plugins/photocraft",
+        "ref": "master"
+      }
+    },
+    {
+      "name": "filmcraft",
+      "description": "Edit video headlessly with FilmCraft, an open-source Premiere-style editor: import media, build sequences, cut, apply effects, render frames and export. Installs the official filmcraft-cli into the plugin's bin/.",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/prajvis/creative-plugins.git",
+        "path": "plugins/filmcraft",
+        "ref": "master"
+      }
+    },
+    {
+      "name": "lightcraft",
+      "description": "Develop and export photos headlessly with LightCraft, an open-source Lightroom-style raw developer: exposure, colour, presets, auto settings, HDR/panorama merge and batch export. Installs the official lightcraft-cli into the plugin's bin/.",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/prajvis/creative-plugins.git",
+        "path": "plugins/lightcraft",
+        "ref": "master"
+      }
+    }
+  ]
+}
