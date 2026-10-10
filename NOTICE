@@ -1,0 +1,14 @@
+Prajvis plugin catalog
+Copyright 2026 Prajvis
+
+Originally developed by Prajvis.
+https://github.com/prajvis/plugins
+
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+This repository contains only a plugin catalog (marketplace.json) that points
+at plugins hosted in other repositories. Each listed plugin is distributed
+under its own license; see the repository it points to.
+
+The Prajvis name is covered by the separate policy in TRADEMARKS.md, which does
+not modify the Apache License.
