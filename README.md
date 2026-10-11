@@ -8,9 +8,16 @@ A plugin catalog (marketplace) for Claude Code, Codex and Prajvis. It contains o
 | `photocraft` | Photoshop-style image editing through `photocraft-cli` | [prajvis/creative-plugins](https://github.com/prajvis/creative-plugins/tree/master/plugins/photocraft) |
 | `filmcraft` | Premiere-style video editing through `filmcraft-cli` | [prajvis/creative-plugins](https://github.com/prajvis/creative-plugins/tree/master/plugins/filmcraft) |
 | `lightcraft` | Lightroom-style photo development through `lightcraft-cli` | [prajvis/creative-plugins](https://github.com/prajvis/creative-plugins/tree/master/plugins/lightcraft) |
+| `vectorcraft` | Illustrator-style vector art through `vectorcraft-cli` | [prajvis/creative-plugins](https://github.com/prajvis/creative-plugins/tree/master/plugins/vectorcraft) |
+| `pdfcraft` | Acrobat-style PDF work through `pdfcraft-cli` | [prajvis/creative-plugins](https://github.com/prajvis/creative-plugins/tree/master/plugins/pdfcraft) |
+| `effectcraft` | After Effects-style motion graphics through `effectcraft-cli` | [prajvis/creative-plugins](https://github.com/prajvis/creative-plugins/tree/master/plugins/effectcraft) |
+| `designcraft` | InDesign-style page layout through `designcraft-cli` | [prajvis/creative-plugins](https://github.com/prajvis/creative-plugins/tree/master/plugins/designcraft) |
+| `gridcraft` | Excel-style spreadsheets through `gridcraft-cli` | [prajvis/creative-plugins](https://github.com/prajvis/creative-plugins/tree/master/plugins/gridcraft) |
+| `cadcraft` | AutoCAD-style 2D drafting through `cadcraft-cli` | [prajvis/creative-plugins](https://github.com/prajvis/creative-plugins/tree/master/plugins/cadcraft) |
 
-Photoshop, Premiere and Lightroom are trademarks of Adobe; they are mentioned only to describe what
-each app does.
+Photoshop, Premiere, Lightroom, Illustrator, Acrobat, After Effects and InDesign are trademarks of
+Adobe, Excel of Microsoft and AutoCAD of Autodesk; they are mentioned only to describe what each
+app does.
 
 ## Install
 
