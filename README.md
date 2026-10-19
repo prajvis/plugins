@@ -5,6 +5,7 @@ A plugin catalog (marketplace) for Claude Code, Codex and Prajvis. It contains o
 
 | Plugin | What it does | Source |
 |---|---|---|
+| `pcode` | Shell commands and AI coding agents inside Coder workspaces, for agents | [prajvis/pcode](https://github.com/prajvis/pcode/tree/master/pcode-plugin) |
 | `photocraft` | Photoshop-style image editing through `photocraft-cli` | [prajvis/creative-plugins](https://github.com/prajvis/creative-plugins/tree/master/plugins/photocraft) |
 | `filmcraft` | Premiere-style video editing through `filmcraft-cli` | [prajvis/creative-plugins](https://github.com/prajvis/creative-plugins/tree/master/plugins/filmcraft) |
 | `lightcraft` | Lightroom-style photo development through `lightcraft-cli` | [prajvis/creative-plugins](https://github.com/prajvis/creative-plugins/tree/master/plugins/lightcraft) |
@@ -37,7 +38,8 @@ codex plugin marketplace add prajvis/plugins
 **Prajvis** includes this catalog as a default marketplace.
 
 **Cursor** can't install plugins from other repositories through a marketplace. Add
-[prajvis/creative-plugins](https://github.com/prajvis/creative-plugins) directly instead.
+[prajvis/creative-plugins](https://github.com/prajvis/creative-plugins) or the `pcode-plugin/` folder of
+[prajvis/pcode](https://github.com/prajvis/pcode) directly instead.
 
 ## Adding a plugin
 

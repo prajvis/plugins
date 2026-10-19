@@ -7,6 +7,16 @@
   },
   "plugins": [
     {
+      "name": "pcode",
+      "description": "Let an agent run shell commands and AI coding agents (Cursor, Claude Code, Codex) inside Coder workspaces: register workspaces as aliases, run commands, brief coding agents in parallel worktrees and review their diffs.",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/prajvis/pcode.git",
+        "path": "pcode-plugin",
+        "ref": "master"
+      }
+    },
+    {
       "name": "photocraft",
       "description": "Edit images headlessly with PhotoCraft, an open-source Photoshop-style editor: crop, adjustments, filters, layers, masks, compositing and PSD export.",
       "source": {
